@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm shubham nikam</h1>
 <h3 align="center">A passionate frontend developer from India.</h3>
 
+<p align="right"><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHNjMXN1emc0cG92ZGtjNmd2bXdlY2gyY2lieGpncGU1ZDRnemd4aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.webp"><p/>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikamshubham07&label=Profile%20views&color=0e75b6&style=flat" alt="nikamshubham07" /></p>
 
-<p align="right"><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHNjMXN1emc0cG92ZGtjNmd2bXdlY2gyY2lieGpncGU1ZDRnemd4aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.webp"><p/>
+
 - 🌱 I’m currently learning **Backend**
 
 - 💬 Ask me about **javascript and react.js**
