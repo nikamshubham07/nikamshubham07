@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm shubham nikam</h1>
 <h3 align="center">A passionate frontend developer from India.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nikamshubham07&label=Profile%20views&color=0e75b6&style=flat" alt="nikamshubham07" /> 
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHNjMXN1emc0cG92ZGtjNmd2bXdlY2gyY2lieGpncGU1ZDRnemd4aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.webp">
-
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nikamshubham07&label=Profile%20views&color=0e75b6&style=flat" alt="nikamshubham07" /> </p>
 
 
 - 🌱 I’m currently learning **Backend**
@@ -14,8 +11,10 @@
 - 📫 How to reach me **shubhamarunnikam2003@gmail.com**
 
 - ⚡ Fun fact **I think I am funny 😃**
-- 
+
 <h3 align="left">Connect with me:</h3>
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHNjMXN1emc0cG92ZGtjNmd2bXdlY2gyY2lieGpncGU1ZDRnemd4aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.webp">
+
 <p align="left">
 <a href="https://linkedin.com/in/shubham-nikam03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubham nikam" height="30" width="40" /></a>
 <a href="https://instagram.com/_shubhamn3_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_shubhamn3_" height="30" width="40" /></a>
