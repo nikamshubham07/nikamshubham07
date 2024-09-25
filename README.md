@@ -31,7 +31,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=nikamshubham07&show_icons=true&locale=en" alt="nikamshubham07" style="width: 48%; height: 150px;">
 </div>
 
-<div style="text-align: center; margin-top: 10px;">
+<div aling="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikamshubham07" alt="nikamshubham07" style="width: 50%; height: 150px;">
 </div>
 
