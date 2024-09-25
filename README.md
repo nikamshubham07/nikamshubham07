@@ -34,7 +34,7 @@
 <div aling="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikamshubham07" alt="nikamshubham07" style="width: 50%; height: 150px;">
 </div>
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nikamshubham07&" alt="nikamshubham07" /></p>
 </div>
 <br><br>
 <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
